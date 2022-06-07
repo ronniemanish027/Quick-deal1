@@ -5,7 +5,7 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import InstagramIcon from "@material-ui/icons/Instagram";
 const About = () => {
   const visitInstagram = () => {
-    window.location = "http://www.instagram.com/shubham_here._/";
+    window.location = "https://www.instagram.com/ronnie0_27/";
   };
   return (
     <div className="aboutSection">
